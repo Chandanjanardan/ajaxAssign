@@ -1,0 +1,21 @@
+#restaurant-list {
+	margin: 20px;
+}
+
+#restaurant-list ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+#restaurant-list li {
+	margin: 5px 0;
+	color: black;
+}
+
+.sitdown {
+	color: green;
+}
+
+.bar {
+	color: blue;
+}
