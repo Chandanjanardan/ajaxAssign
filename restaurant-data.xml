@@ -1,9 +1,6 @@
- <h1>restaurant name="yellow chilli"</h1>
- <br/> 
- 
- <h1>address="new delhi"</h1>
- <br/> 
- <h1>lat="47.608940" lng="-122.340141"</h1>
- <br/> 
- 
- <h1>type="sitdown"</h1>
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurants>
+  <restaurant name="Yellow Chilli" address="New Delhi" lat="47.608940" lng="-122.340141" type="sitdown" />
+  <restaurant name="Barbeque Nation" address="Mumbai" lat="37.7749" lng="-122.4194" type="bar" />
+  <restaurant name="KFC" address="Bangalore" lat="19.0760" lng="72.8777" type="sitdown" />
+</restaurants>
